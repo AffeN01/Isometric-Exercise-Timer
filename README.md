@@ -9,4 +9,4 @@ This is a simple CLI script created with kegels and other isometric training in 
 ---
 
 #### Legal Disclaimer
-Consult a medical expert before you introduce new training methods! I am not responsible for any potential injuries caused by this training method.
+Consult a medical expert before you introduce new training methods! I am not responsible for any potential injuries related to the usage of this script.
