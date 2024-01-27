@@ -5,7 +5,7 @@ This is a simple CLI script created with kegels and other isometric training in 
 ## Roadmap
 - Proper scalable GUI with colors and buttons and stuff.
 - Sound effects.
-- Rhythm mode where you follow a metronome or a drum pattern.
+- Rhythm mode where you follow a metronome or drum pattern.
 - Options for users to manage and share presets.
 - Mobile or smart watch apps.
 
