@@ -1,4 +1,5 @@
 # Isometric Exercise Timer
+![image](https://github.com/AffeN01/Isometric-Exercise-Timer/assets/14183394/4c1f734b-b461-4f15-8895-8df35ec565ed)
 This is a simple CLI script created with kegels and other isometric training in mind. It is a timer that was inspired by an old piece of beerware called xercise.exe, the source of which I can't seem to find. While this script lacks a "mixed" mode, it allows for much more customizability than its spiritual predecessor.
 
 [Roadmap](https://github.com/AffeN01/Isometric-Exercise-Timer/wiki/Roadmap)
