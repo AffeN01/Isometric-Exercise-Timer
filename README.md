@@ -1,4 +1,4 @@
-# Isometric Exercise Script
+# Isometric Exercise Timer
 This is a simple CLI script created with kegels and other isometric training in mind. It is a timer that was inspired by an old piece of beerware called xercise.exe, the source of which I can't seem to find. While this script lacks a "mixed" mode, it allows for much more customizability than its spiritual predecessor.
 
 ## Legal Disclaimer
