@@ -9,5 +9,7 @@ This is a simple CLI script created with kegels and other isometric training in 
 - Options for users to manage and share presets.
 - Mobile or smart watch apps.
 
-### Legal Disclaimer
+---
+
+#### Legal Disclaimer
 Consult a medical expert before you introduce new training methods! I am not responsible for any potential injuries caused by this training method.
